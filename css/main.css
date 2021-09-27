@@ -401,6 +401,7 @@ img {
     }
     
     .header .header__item + .header__item {
+        margin-top: 15px;
         margin-left: 0;
     }
 
