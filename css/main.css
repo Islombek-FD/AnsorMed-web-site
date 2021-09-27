@@ -353,6 +353,12 @@ img {
         background-image: none;
     }
 
+    .hero .container,
+    .services .container-sm {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+
     .service__card {
         flex-direction: column;
     }
